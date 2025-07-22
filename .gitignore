@@ -1,0 +1,12 @@
+*# Environment variables - NEVER commit this
+.env
+
+# Python virtual environment folder
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
