@@ -19,7 +19,8 @@ This project showcases skills in API integration, data manipulation with Pandas,
 
 ## Screenshot of the Dashboard
 
-![Dashboard Screenshot](<img width="1348" height="654" alt="github_analyzer_screenshot2" src="https://github.com/user-attachments/assets/0e5a0d25-76cf-4d63-8ac2-8363e4d70f0b" />
+![Dashboard Screenshot](<img width="1348" height="654" alt="github_analyzer_screenshot2" src="https://github.com/user-attachments/assets/9d569c6f-9122-4d24-b925-654226c302df" />
+
 ) 
 <img width="825" height="572" alt="github_analyzer_screenshot" src="https://github.com/user-attachments/assets/6d7f7e2e-afac-4dbd-8798-4074bf00b03d" />
 
