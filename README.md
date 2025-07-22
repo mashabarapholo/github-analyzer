@@ -21,7 +21,8 @@ This project showcases skills in API integration, data manipulation with Pandas,
 
 *(You will add a screenshot here later)*
 
-![Dashboard Screenshot](screenshot.png) 
+![Dashboard Screenshot](<img width="1348" height="654" alt="github_analyzer_screenshot2" src="https://github.com/user-attachments/assets/0e5a0d25-76cf-4d63-8ac2-8363e4d70f0b" />
+) 
 
 ## Tech Stack
 
